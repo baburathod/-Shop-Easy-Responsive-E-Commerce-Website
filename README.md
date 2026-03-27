@@ -44,23 +44,6 @@ ShopEasy/
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/shopeasy.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd shopeasy
-```
-
-3. Open `index.html` in your browser.
-
----
 
 ## 🛒 How It Works
 
