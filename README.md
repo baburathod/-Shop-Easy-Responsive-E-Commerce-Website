@@ -6,7 +6,7 @@ ShopEasy is a modern, responsive e-commerce landing page built using **HTML, CSS
 
 ## 🚀 Live Demo
 
-👉 (Add your GitHub Pages link here)
+👉  https://baburathod.github.io/-Shop-Easy-Responsive-E-Commerce-Website/
 
 ---
 
